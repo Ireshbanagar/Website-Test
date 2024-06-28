@@ -31,7 +31,9 @@ I am a Self taught ******Software Developer****** - Currently enhancing my skill
 - #BLOGS
 
 ** Contact **
+
 Feel free to reach out to me via:
+
 LinkedIn: https://www.linkedin.com/in/iresh-banagar-b9976bba/
 
 Github: https://github.com/Ireshbanagar
