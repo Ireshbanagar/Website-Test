@@ -11,17 +11,27 @@ I am a passionate developer with a keen interest in exploring new technologies. 
 
 **Profession**
 
-Self practicing on ******Software Developer****** - Exploring new technicalities in website designing using tools such as **Vertex AI**, **Generative AI** etc.
-
+I am a Self taught ******Software Developer****** - Currently enhancing my skills in website design using cutting-edge tools like Vertex AI and Generative AI. My areas of interest include:
+  *Generative AI*
+  *Machine Learning*
+  *Deep Learning*
+  *Data Science*
+  
 <p align="left"> Exploring new technologies like, Generative AI, Machine Learning, Deep Learning, Data Science etc</p>
 
 
-# **My TECHNICAL CONTRIBUTION - AWS - Amazon Web Services (AWS)**
-
+# **My TECHNICAL CONTRIBUTION:**
+- [**Intel Cloud **]
 - [**Google Cloud **]
 - [**Generative AI**]
 - [**Billing Information**]
 - [**Chat GPT features**]
+- [**AWS - Amazon Web Services (AWS)**]
 - [**Exploring new technical things**]
 
+
+** Contact **
+Feel free to reach out to me via:
+LinkedIn: https://www.linkedin.com/in/iresh-banagar-b9976bba/
+Github: https://github.com/Ireshbanagar
 - #BLOGS
