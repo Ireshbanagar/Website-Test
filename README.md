@@ -5,6 +5,8 @@ Website Test
 
 <h1 align="center"> Developer </h1>
 
+I am a passionate developer with a keen interest in exploring new technologies. I specialize in web development and have experience with tools such as Vertex AI and Generative AI. My work focuses on creating innovative solutions and continuously learning about new advancements in the tech world.
+
 ![Colorful Watercolor Floral Linktree Background (12)]
 
 **Profession**
